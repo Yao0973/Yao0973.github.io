@@ -1,4 +1,3 @@
-
 ---
 # 显示名称
 title: 王尧 (Yao Wang)
