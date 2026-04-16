@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
+  display: 王伟强
   given: Alex
   family: Johnson
   alternate: ''  # Example: 王伟
